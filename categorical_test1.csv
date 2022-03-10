@@ -1,0 +1,206 @@
+	0
+('Benguela', 'S108N', 'mutation')	21
+('Lunda Sul', 'S108N', 'mutation')	26
+('Zaire', 'S108N', 'mutation')	58
+('Benguela', 'C59R', 'mutation')	15
+('Benguela', 'K76T', 'mutation')	3
+('Lunda Sul', 'C59R', 'mutation')	16
+('Lunda Sul', 'K76T', 'mutation')	2
+('Zaire', 'C59R', 'mutation')	57
+('Zaire', 'K76T', 'mutation')	25
+('Zaire', 'I356T', 'mutation')	10
+('Benguela', 'A437G', 'mutation')	19
+('Benguela', 'S436A', 'mutation')	3
+('Benguela', 'Q271E', 'mutation')	1
+('Benguela', 'K540E', 'mutation')	3
+('Lunda Sul', 'A437G', 'mutation')	22
+('Lunda Sul', 'S436A', 'mutation')	4
+('Lunda Sul', 'K540E', 'mutation')	3
+('Lunda Sul', 'Q271E', 'mutation')	2
+('Zaire', 'A437G', 'mutation')	54
+('Zaire', 'Q271E', 'mutation')	15
+('Zaire', 'K540E', 'mutation')	10
+('Zaire', 'S436A', 'mutation')	17
+('Zaire', 'A581G', 'mutation')	3
+('Benguela', 'N75E', 'mutation')	3
+('Lunda Sul', 'N75E', 'mutation')	2
+('Zaire', 'N75E', 'mutation')	24
+('Benguela', 'N51I', 'mutation')	21
+('Benguela', 'M74I', 'mutation')	3
+('Benguela', 'Y184F', 'mutation')	1
+('Benguela', 'A220S', 'mutation')	1
+('Lunda Sul', 'N51I', 'mutation')	23
+('Lunda Sul', 'Y184F', 'mutation')	6
+('Lunda Sul', 'M74I', 'mutation')	2
+('Lunda Sul', 'A220S', 'mutation')	2
+('Zaire', 'N51I', 'mutation')	58
+('Zaire', 'A220S', 'mutation')	13
+('Zaire', 'Y184F', 'mutation')	16
+('Zaire', 'M74I', 'mutation')	24
+('Zaire', 'A613S', 'mutation')	2
+('Zaire', 'N86Y', 'mutation')	4
+('Zaire', 'D1246Y', 'mutation')	1
+('Benguela', 'C72S', 'wildtype')	14
+('Lunda Sul', 'I356T', 'wildtype')	19
+('Zaire', 'T93S', 'wildtype')	49
+('Zaire', 'G353V', 'wildtype')	36
+('Zaire', 'A16V', 'wildtype')	58
+('Zaire', 'N75E', 'wildtype')	24
+('Benguela', 'A581G', 'wildtype')	18
+('Benguela', 'V73V', 'wildtype')	14
+('Benguela', 'Y184F', 'wildtype')	11
+('Benguela', 'D1246Y', 'wildtype')	12
+('Benguela', 'Q271E', 'wildtype')	14
+('Benguela', 'N1042D', 'wildtype')	13
+('Benguela', 'K540E', 'wildtype')	14
+('Benguela', 'S1034C', 'wildtype')	13
+('Benguela', 'T93S', 'wildtype')	17
+('Benguela', 'H97Y', 'wildtype')	17
+('Benguela', 'R371I', 'wildtype')	2
+('Benguela', 'N326S', 'wildtype')	2
+('Benguela', 'S436A', 'wildtype')	16
+('Lunda Sul', 'C72S', 'wildtype')	17
+('Lunda Sul', 'V73V', 'wildtype')	17
+('Lunda Sul', 'M74I', 'wildtype')	15
+('Lunda Sul', 'N75E', 'wildtype')	16
+('Lunda Sul', 'K76T', 'wildtype')	16
+('Lunda Sul', 'T93S', 'wildtype')	20
+('Lunda Sul', 'G353V', 'wildtype')	19
+('Lunda Sul', 'R371I', 'wildtype')	2
+('Lunda Sul', 'I164L', 'wildtype')	26
+('Lunda Sul', 'K540E', 'wildtype')	21
+('Lunda Sul', 'Y184F', 'wildtype')	14
+('Lunda Sul', 'Y493H', 'wildtype')	26
+('Lunda Sul', 'N537I', 'wildtype')	27
+('Lunda Sul', 'G538V', 'wildtype')	27
+('Lunda Sul', 'R539T', 'wildtype')	27
+('Lunda Sul', 'C59R', 'wildtype')	11
+('Lunda Sul', 'A613S', 'wildtype')	26
+('Lunda Sul', 'A675V', 'wildtype')	26
+('Lunda Sul', 'S436A', 'wildtype')	22
+('Lunda Sul', 'A437G', 'wildtype')	4
+('Lunda Sul', 'C350R', 'wildtype')	20
+('Lunda Sul', 'D1246Y', 'wildtype')	19
+('Lunda Sul', 'H97Y', 'wildtype')	20
+('Zaire', 'V73V', 'wildtype')	47
+('Zaire', 'M74I', 'wildtype')	23
+('Zaire', 'D1246Y', 'wildtype')	41
+('Zaire', 'K540E', 'wildtype')	45
+('Zaire', 'I218F', 'wildtype')	23
+('Zaire', 'N86Y', 'wildtype')	34
+('Zaire', 'C72S', 'wildtype')	46
+('Zaire', 'I356T', 'wildtype')	25
+('Zaire', 'N326S', 'wildtype')	6
+('Zaire', 'Q271E', 'wildtype')	17
+('Zaire', 'S1034C', 'wildtype')	41
+('Zaire', 'N1042D', 'wildtype')	39
+('Zaire', 'A613S', 'wildtype')	54
+('Zaire', 'K76T', 'wildtype')	23
+('Zaire', 'H97Y', 'wildtype')	49
+('Zaire', 'I164L', 'wildtype')	58
+('Zaire', 'P441L', 'wildtype')	59
+('Zaire', 'F446I', 'wildtype')	59
+('Zaire', 'G449A', 'wildtype')	59
+('Zaire', 'A675V', 'wildtype')	57
+('Zaire', 'P527H', 'wildtype')	59
+('Zaire', 'N537I', 'wildtype')	59
+('Zaire', 'G538V', 'wildtype')	59
+('Zaire', 'R539T', 'wildtype')	59
+('Zaire', 'I543T', 'wildtype')	59
+('Zaire', 'P553L', 'wildtype')	58
+('Zaire', 'R561H', 'wildtype')	59
+('Zaire', 'V568G', 'wildtype')	59
+('Zaire', 'P574L', 'wildtype')	59
+('Zaire', 'A578S', 'wildtype')	59
+('Zaire', 'C580Y', 'wildtype')	59
+('Zaire', 'D584V', 'wildtype')	59
+('Zaire', 'R622I', 'wildtype')	57
+('Zaire', 'N458Y', 'wildtype')	59
+('Zaire', 'C469F', 'wildtype')	59
+('Zaire', 'C469Y', 'wildtype')	59
+('Zaire', 'M476I', 'wildtype')	59
+('Zaire', 'A481V', 'wildtype')	59
+('Zaire', 'F145I', 'wildtype')	50
+('Zaire', 'C350R', 'wildtype')	36
+('Benguela', 'I164L', 'wildtype')	20
+('Benguela', 'M74I', 'wildtype')	11
+('Benguela', 'N75E', 'wildtype')	11
+('Benguela', 'K76T', 'wildtype')	11
+('Benguela', 'A613S', 'wildtype')	19
+('Benguela', 'M343L', 'wildtype')	10
+('Benguela', 'G353V', 'wildtype')	10
+('Benguela', 'I356T', 'wildtype')	10
+('Lunda Sul', 'F145I', 'wildtype')	22
+('Lunda Sul', 'N86Y', 'wildtype')	18
+('Lunda Sul', 'N1042D', 'wildtype')	19
+('Lunda Sul', 'A581G', 'wildtype')	25
+('Lunda Sul', 'A16V', 'wildtype')	26
+('Lunda Sul', 'P441L', 'wildtype')	26
+('Lunda Sul', 'R622I', 'wildtype')	25
+('Lunda Sul', 'C469F', 'wildtype')	26
+('Lunda Sul', 'C469Y', 'wildtype')	26
+('Lunda Sul', 'A481V', 'wildtype')	26
+('Lunda Sul', 'P553L', 'wildtype')	27
+('Zaire', 'A581G', 'wildtype')	53
+('Zaire', 'R515K', 'wildtype')	58
+('Zaire', 'M343L', 'wildtype')	36
+('Zaire', 'S436A', 'wildtype')	38
+('Benguela', 'I543T', 'wildtype')	18
+('Lunda Sul', 'R515K', 'wildtype')	25
+('Benguela', 'G449A', 'wildtype')	20
+('Benguela', 'F446I', 'wildtype')	20
+('Benguela', 'R622I', 'wildtype')	18
+('Zaire', 'Y493H', 'wildtype')	58
+('Benguela', 'V568G', 'wildtype')	18
+('Lunda Sul', 'P574L', 'wildtype')	27
+('Benguela', 'C580Y', 'wildtype')	18
+('Benguela', 'C469F', 'wildtype')	20
+('Benguela', 'C469Y', 'wildtype')	20
+('Benguela', 'R561H', 'wildtype')	18
+('Lunda Sul', 'D584V', 'wildtype')	27
+('Lunda Sul', 'M476I', 'wildtype')	26
+('Benguela', 'P441L', 'wildtype')	19
+('Lunda Sul', 'V568G', 'wildtype')	27
+('Benguela', 'A578S', 'wildtype')	18
+('Benguela', 'R539T', 'wildtype')	18
+('Lunda Sul', 'G449A', 'wildtype')	26
+('Benguela', 'N537I', 'wildtype')	18
+('Lunda Sul', 'A578S', 'wildtype')	27
+('Lunda Sul', 'C580Y', 'wildtype')	27
+('Benguela', 'G538V', 'wildtype')	18
+('Benguela', 'M476I', 'wildtype')	19
+('Benguela', 'P527H', 'wildtype')	18
+('Benguela', 'P553L', 'wildtype')	18
+('Benguela', 'A481V', 'wildtype')	19
+('Benguela', 'R515K', 'wildtype')	18
+('Benguela', 'N458Y', 'wildtype')	20
+('Lunda Sul', 'N458Y', 'wildtype')	26
+('Benguela', 'P574L', 'wildtype')	18
+('Lunda Sul', 'R561H', 'wildtype')	27
+('Lunda Sul', 'P527H', 'wildtype')	25
+('Benguela', 'F145I', 'wildtype')	15
+('Benguela', 'C350R', 'wildtype')	10
+('Lunda Sul', 'F446I', 'wildtype')	26
+('Lunda Sul', 'I543T', 'wildtype')	27
+('Benguela', 'D584V', 'wildtype')	18
+('Benguela', 'Y493H', 'wildtype')	19
+('Benguela', 'A16V', 'wildtype')	21
+('Benguela', 'A675V', 'wildtype')	17
+('Lunda Sul', 'M343L', 'wildtype')	20
+('Zaire', 'Y184F', 'wildtype')	29
+('Lunda Sul', 'S1034C', 'wildtype')	19
+('Zaire', 'C59R', 'wildtype')	2
+('Lunda Sul', 'N51I', 'wildtype')	4
+('Benguela', 'I218F', 'wildtype')	11
+('Benguela', 'A220S', 'wildtype')	10
+('Benguela', 'N86Y', 'wildtype')	8
+('Benguela', 'C59R', 'wildtype')	6
+('Lunda Sul', 'I218F', 'wildtype')	10
+('Lunda Sul', 'A220S', 'wildtype')	8
+('Lunda Sul', 'N326S', 'wildtype')	3
+('Lunda Sul', 'Q271E', 'wildtype')	13
+('Zaire', 'A220S', 'wildtype')	8
+('Zaire', 'A437G', 'wildtype')	1
+('Zaire', 'A613S', 'NA')	56
+('Lunda Sul', 'A613S', 'NA')	26
+('Benguela', 'A613S', 'NA')	19
